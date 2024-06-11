@@ -50,5 +50,5 @@
 
 # *Author*
 
-* Tushar Nankani (tusharnankani, tusharnankani3@gmail.com)
+* Jayant Bhati (Jayant Bhati, jai77bhati@gmail.com)
   - [LinkedIn](https://www.linkedin.com/in/jayant-bhati-263206259/)
